@@ -1,22 +1,23 @@
 {
   "name": "MJNetwork",
   "version": "0.1.0",
-  "summary": "A short description of MJNetwork.",
+  "summary": "MJNework.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jianghaiyang2010@126.com/MJNetwork",
+  "homepage": "https://github.com/sea516/MJNetwork",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "jianghaiyang2010@126.com": "mike.jiang@iherb.cn"
+    "sea516": "mike.jiang@iherb.cn"
   },
   "source": {
-    "git": "https://github.com/jianghaiyang2010@126.com/MJNetwork.git",
+    "git": "https://github.com/sea516/MJNetwork.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MJNetwork/Classes/**/*"
+  "source_files": "MJNetwork/Classes/**/*",
+  "swift_version": "4.2"
 }
