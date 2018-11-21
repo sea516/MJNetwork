@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MJNetwork_Example' do
+  pod 'MJNetwork', :path => '../'
+
+  target 'MJNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
