@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MJNetwork'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MJNetwork.'
+  s.summary          = 'MJNework.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/jianghaiyang2010@126.com/MJNetwork'
+  s.homepage         = 'https://github.com/sea516/MJNetwork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'jianghaiyang2010@126.com' => 'mike.jiang@iherb.cn' }
-  s.source           = { :git => 'https://github.com/jianghaiyang2010@126.com/MJNetwork.git', :tag => s.version.to_s }
+  s.author           = { 'sea516' => 'mike.jiang@iherb.cn' }
+  s.source           = { :git => 'https://github.com/sea516/MJNetwork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'MJNetwork/Classes/**/*'
-  
+  s.swift_version = '4.2'
   # s.resource_bundles = {
   #   'MJNetwork' => ['MJNetwork/Assets/*.png']
   # }

@@ -1,0 +1,16 @@
+PODS:
+  - MJNetwork (0.1.0)
+
+DEPENDENCIES:
+  - MJNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  MJNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJNetwork: 4f7d25407baf3fa3c7f21bd62d4aaaf633661383
+
+PODFILE CHECKSUM: 22979842e088100aaec835229f396a9e9d4d6a2f
+
+COCOAPODS: 1.5.3
