@@ -29,10 +29,10 @@
 
 /* Begin PBXFileReference section */
 		21F4E2A77E55D57878087B3B /* Pods_MJNetwork_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MJNetwork_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		33CB741CF909BA9107C62BE1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		33CB741CF909BA9107C62BE1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		3C7BDDA3EC7851C3C2189A8D /* Pods-MJNetwork_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJNetwork_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MJNetwork_Example/Pods-MJNetwork_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4514E7BF7E6EAA434E8CF15B /* Pods-MJNetwork_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJNetwork_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MJNetwork_Tests/Pods-MJNetwork_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		528E9B00376D08C3ADE78773 /* MJNetwork.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MJNetwork.podspec; path = ../MJNetwork.podspec; sourceTree = "<group>"; };
+		528E9B00376D08C3ADE78773 /* MJNetwork.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MJNetwork.podspec; path = ../MJNetwork.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* MJNetwork_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MJNetwork_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		60E6151FC0EB35C2F1291158 /* Pods_MJNetwork_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MJNetwork_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		673257370B3ABB27E0420A06 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		673257370B3ABB27E0420A06 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B04B1AFF9390F035F82FFF44 /* Pods-MJNetwork_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJNetwork_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MJNetwork_Example/Pods-MJNetwork_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F8E23154F8B9DAF81224DA62 /* Pods-MJNetwork_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJNetwork_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MJNetwork_Tests/Pods-MJNetwork_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
